@@ -15,7 +15,7 @@ brew install --cask mylocal
 
 Free. macOS 13 or later, Apple silicon. [Website](https://mylocal.myiam.io)
 
-| | |
+| Repository | What it's for |
 |---|---|
 | [mylocal](https://github.com/my-locals/mylocal) | Bugs, ideas and security reports, in English or 한국어 |
 | [homebrew-mylocal](https://github.com/my-locals/homebrew-mylocal) | Install and releases |
